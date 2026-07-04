@@ -25,7 +25,8 @@ xian
 
 ## Solution
 Go to file `findian.go`
-![output Findian](../img/findian/outputFindian.avif)
+
+<img src="../img/findian/outputFindian.avif" alt="Ouput findian" width="400">
 
 
 ## Conclusion of package `strings`
