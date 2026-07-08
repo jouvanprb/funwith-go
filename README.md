@@ -10,6 +10,9 @@ My archive to track **Golang** learning progress
 
 
 List Task!
-1. [Truncate](https://github.com/jouvanprb/funwith-go/tree/main/trunc)
-2. [Findian](https://github.com/jouvanprb/funwith-go/tree/main/findian)
-3. [Slice](https://github.com/jouvanprb/funwith-go/tree/main/slice)
+1. [Truncate Floating Point Number](https://github.com/jouvanprb/funwith-go/tree/main/trunc)
+2. [String Pattern Matching: Find "ian"](https://github.com/jouvanprb/funwith-go/tree/main/findian)
+3. [Dynamic Slice Growth with append()](https://github.com/jouvanprb/funwith-go/tree/main/slice)
+4. [Make Json with map](https://github.com/jouvanprb/funwith-go/tree/main/makejson)
+5. [Make Json from user input using Struct](https://github.com/jouvanprb/funwith-go/tree/main/json-from-struct)
+6. [Reading File into Slice of Structs](https://github.com/jouvanprb/funwith-go/tree/main/file-slice-struct)
