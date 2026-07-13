@@ -1,0 +1,30 @@
+// package main
+
+// import "fmt"
+
+// func main() {
+// 	sliData := make([]int, 0, 10)
+// 	fmt.Println("Input Number -10")
+// 	for i := range 10 {
+// 		var inputNumber int
+// 		fmt.Printf("%d. ", i+1)
+// 		fmt.Scan(&inputNumber)
+// 		sliData = append(sliData, inputNumber)
+// 	}
+// 	BubbleSort(sliData)
+// 	fmt.Println(sliData)
+// }
+
+// func BubbleSort(sliData []int) {
+// 	for i := 0; i < len(sliData); i++ {
+// 		for j := 0; j < len(sliData)-1; j++ {
+// 			if sliData[j] > sliData[j+1] {
+// 				Swap(sliData, j)
+// 			}
+// 		}
+// 	}
+// }
+
+// func Swap(sliData []int, j int) {
+// 	sliData[j+1], sliData[j] = sliData[j], sliData[j+1]
+// }
