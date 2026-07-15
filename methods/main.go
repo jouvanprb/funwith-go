@@ -71,37 +71,37 @@ func main() {
 		switch animals {
 		case "cow":
 			switch action {
-			case "food":
+			case "eat":
 				cow.Eat()
 
-			case "locomotion":
+			case "move":
 				cow.Move()
 
-			case "noises":
+			case "speak":
 				cow.Speak()
 			}
 
 		case "bird":
 			switch action {
-			case "food":
+			case "eat":
 				bird.Eat()
 
-			case "locomotion":
+			case "move":
 				bird.Move()
 
-			case "noises":
+			case "speak":
 				bird.Speak()
 			}
 
 		case "snake":
 			switch action {
-			case "food":
+			case "eat":
 				snake.Eat()
 
-			case "locomotion":
+			case "move":
 				snake.Move()
 
-			case "noises":
+			case "speak":
 				snake.Speak()
 			}
 		}
