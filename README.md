@@ -16,3 +16,6 @@ List Task!
 4. [Make Json with map](https://github.com/jouvanprb/funwith-go/tree/main/makejson)
 5. [Make Json from user input using Struct](https://github.com/jouvanprb/funwith-go/tree/main/json-from-struct)
 6. [Reading File into Slice of Structs](https://github.com/jouvanprb/funwith-go/tree/main/file-slice-struct)
+7. [bubble sort algorithm](https://github.com/jouvanprb/funwith-go/tree/main/bubble-sorts)
+8. [Closure Go](https://github.com/jouvanprb/funwith-go/tree/main/gen-displace-fn)
+9. [Method Function with receiver argument](https://github.com/jouvanprb/funwith-go/tree/main/methods)
